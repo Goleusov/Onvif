@@ -1,0 +1,17 @@
+	Exposure    :0
+		ExposureTime :50
+		Gain :50
+		Iris :50
+		MaxExposureTime :50
+		MaxGain :50
+		MaxIris :50
+		MinExposureTime :50
+		MinGain :50
+		MinIris :50
+		ExposureTime :0
+		Priority :0
+		Window bottom :0
+		Window left :0
+		Window right :0
+		Window top :0
+

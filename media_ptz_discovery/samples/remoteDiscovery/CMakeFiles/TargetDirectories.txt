@@ -1,0 +1,7 @@
+/home/igor/onvif/OnvifClient_gSOAP/samples/remoteDiscovery/CMakeFiles/install/strip.dir
+/home/igor/onvif/OnvifClient_gSOAP/samples/remoteDiscovery/CMakeFiles/edit_cache.dir
+/home/igor/onvif/OnvifClient_gSOAP/samples/remoteDiscovery/CMakeFiles/remoteDiscovery.dir
+/home/igor/onvif/OnvifClient_gSOAP/samples/remoteDiscovery/CMakeFiles/list_install_components.dir
+/home/igor/onvif/OnvifClient_gSOAP/samples/remoteDiscovery/CMakeFiles/install/local.dir
+/home/igor/onvif/OnvifClient_gSOAP/samples/remoteDiscovery/CMakeFiles/rebuild_cache.dir
+/home/igor/onvif/OnvifClient_gSOAP/samples/remoteDiscovery/CMakeFiles/install.dir
